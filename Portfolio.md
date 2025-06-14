@@ -20,46 +20,42 @@
 
 #  Conecte-se comigo 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-oliveira-a141b0300)
 
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+<li>
+  <a href="https://www.linkedin.com/in/guilherme-oliveira-a141b0300/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo" />
+  </a>
+</li>
 
-<div class="tecnologias" style="display: inline-block"><br>
+
+<li><img src="https://cdn.simpleicons.org/discord/7289DA" height="30" alt="discord logo" /></li>
+
 
 
 # Minhas Habilidades
 
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo" />
-
- 
-
- <div><br>
+<img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
- 
+ <ul>
+  <li><img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" /></li>
+  <li><img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo" /></li>
+  <li><img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" /></li>
+  <li><img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" /></li>
+  <li><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" /></li>
+  <li><img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo" /></li>
+</ul>
+
+
 
 <h1 align="center">Ferramentas</h1> 
 
-<img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-<img width="12" />
-<img src="https://cdn.simpleicons.org/apache/netbeans/1B6AC6" height="30" alt="netbeans logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-
-
-
+<ul>
+  <li><img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" /></li>
+  <li><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" /></li>
+  <li><img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipse logo" /></li>
+  <li><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" /></li>
+</ul>
 
 
 
