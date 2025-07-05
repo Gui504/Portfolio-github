@@ -28,7 +28,7 @@
 </li>
 
 
-<li><img src="https://cdn.simpleicons.org/discord/7289DA" height="30" alt="discord logo" /></li>
+
 
 
 
@@ -43,7 +43,6 @@
   <li><img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" /></li>
   <li><img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" /></li>
   <li><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" /></li>
-  <li><img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo" /></li>
 </ul>
 
 
